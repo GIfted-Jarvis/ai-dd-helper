@@ -17,8 +17,8 @@ Although there are already many tools or products using AI to generate code, the
 - Design by AI
 - ***使用 AI 进行设计***
 
-<video controls width="500">
-  <source src="./docs/demo-vedio.mp4" type="video/mp4">
+<video controls width="720">
+  <source src="https://raw.githubusercontent.com/GIfted-Jarvis/ai-dd-helper/refs/heads/main/docs/demo-vedio.mp4" type="video/mp4">
 </video>
 
 ## 2. Deployment
